@@ -1,12 +1,13 @@
 # Advent of Code
 
-Foobar is a Python library for dealing with word pluralization.
+My task solving on the Golang
 
 ## Installation
 
-- Install latest version of Go https://go.dev/dl/ 
+- Install the latest version of Go https://go.dev/dl/ 
 - Go to the https://adventofcode.com/2022 and login
 - Take inputs, and paste them to `/inpits/input-**.txt`
+- Or use my predefined inputs
 
 ## Usage
 
