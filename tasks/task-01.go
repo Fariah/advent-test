@@ -1,4 +1,4 @@
-package main
+package tasks
 
 import (
 	"advent-test/helpers"
@@ -7,11 +7,9 @@ import (
 	"strings"
 )
 
-const INPUT = "inputs/input-01.txt"
-
-func main() {
+func Execute01() {
 	fmt.Printf("Start task 01\n")
-	content, _ := helpers.ReadFile(INPUT)
+	content, _ := helpers.ReadFile("inputs/input-01.txt")
 	blocks := strings.Split(content, "\n")
 	calculation := 0
 	biggestCalories := 0

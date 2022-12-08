@@ -12,7 +12,7 @@ My task solving on the Golang
 ## Usage
 
 ```
-go run task-01.go
+go run main.go 01
 ```
 
 ## Contributing
